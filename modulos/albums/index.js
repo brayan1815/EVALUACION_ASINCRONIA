@@ -1,0 +1,1 @@
+export {getAlbumsUser} from "./solicitar_albums_user.js"

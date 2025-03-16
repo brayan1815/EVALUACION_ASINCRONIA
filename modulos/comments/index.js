@@ -1,0 +1,1 @@
+export {getComentsPosts} from "./soliictar_coment_post.js"

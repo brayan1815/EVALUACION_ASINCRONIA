@@ -1,0 +1,1 @@
+export {getFotosAlbum} from "./solicitar_foto_album.js"
