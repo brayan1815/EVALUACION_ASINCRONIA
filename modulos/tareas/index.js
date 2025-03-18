@@ -1,1 +1,1 @@
-export {solicitar_tareas_pendientes_user} from "./listar_tareas_pendientes.js"
+export {solicitar_tareas_pendientes_user} from "./listar_tareas_pendientes.js" //se exporta la funcion soliictar_tareas_pendientes_user que se encuentra dentro del archivo litar_tareas_pendientes.js

@@ -1,1 +1,1 @@
-export {getComentsPosts} from "./soliictar_coment_post.js"
+export {getComentsPosts} from "./soliictar_coment_post.js"//se exporta la funcion getComentsPosts del archivo soliictar_coment_post.js

@@ -1,2 +1,2 @@
-export {getPostTitle} from "./soliictar_posts_title.js";
-export {get_post_user} from "./solicitar_post_user.js"
+export {getPostTitle} from "./soliictar_posts_title.js";//se exporta la funcion getPostTitle del archivo solicitar_posts_title.js
+export {get_post_user} from "./solicitar_post_user.js"//se exporta la funcion get_post_user del archivo solicitar_post_user.js

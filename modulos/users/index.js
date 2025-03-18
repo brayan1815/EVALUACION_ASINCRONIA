@@ -1,3 +1,3 @@
-export {solicitar_usuarios} from "./solicitar_usuarios.js"
-export {get_users_username} from "./solicitar_usuarios_username.js"
-export {get_name_phone} from "./solicitar_nombre_telefono.js"
+export {solicitar_usuarios} from "./solicitar_usuarios.js" //se exporta la funcion solicitar_usuarios del archivo solicitar_usuarios.js
+export {get_users_username} from "./solicitar_usuarios_username.js"//se exporta la funcion get_users_username del archivo solicitar_usuarios_username.js
+export {get_name_phone} from "./solicitar_nombre_telefono.js"//se exporta la funcion get_name_phone del archivo solicitar_nombre_telefono.js

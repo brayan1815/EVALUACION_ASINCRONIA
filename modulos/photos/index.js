@@ -1,1 +1,1 @@
-export {getFotosAlbum} from "./solicitar_foto_album.js"
+export {getFotosAlbum} from "./solicitar_foto_album.js" //se exporta la funcion getFotosoAlbum que se encuentra en el archivo soliictar_foto_album.js
